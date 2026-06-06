@@ -1,0 +1,31 @@
+id,cost,customer_id,category
+303,3113,661,Electronics
+80,7988,280,Electronics
+747,5023,389,Books
+694,8411,627,Electronics
+837,3548,75,Electronics
+275,9987,481,Health & Beauty
+9,4429,636,Health & Beauty
+33,9075,350,Food
+568,2953,837,Health & Beauty
+804,9958,433,Health & Beauty
+517,9475,381,Toys & Games
+550,1790,111,Materials
+255,8154,876,Materials
+672,5814,180,Electronics
+79,8207,111,Food
+798,8303,837,Electronics
+74,3890,694,Food
+294,1572,779,Toys & Games
+127,8212,5,Electronics
+60,6728,607,Materials
+564,2580,551,Electronics
+82,3148,110,Clothing
+840,7492,492,Materials
+428,8286,173,Food
+393,2791,876,Books
+37,4657,957,Electronics
+329,8123,648,Home & Kitchen
+503,4166,976,Food
+986,9577,270,Health & Beauty
+890,9214,559,Home & Kitchen
